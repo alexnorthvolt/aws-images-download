@@ -1,4 +1,5 @@
 Images bulk downloading script
+
 Before start using:
   1. Check the S3 base path ($S3BasePath), which is by default "s3://nv-firefly-ett-ds1-prod-image-upload-api/"
   2. Check the destination folder ($DestPath)
